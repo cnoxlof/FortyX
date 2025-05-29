@@ -40,8 +40,7 @@ This project will be released under the **MIT License**. Details will be provide
 
 ## Contact
 For updates and more information, visit the repository or follow us on:
-- GitHub: [Coming Soon]
-- Twitter: [Coming Soon]
+- Discord: [Coming Soon]
 - Email: [Coming Soon]
 
 ---
