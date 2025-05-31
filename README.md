@@ -19,10 +19,10 @@ Stay tuned for updates!
 ---
 
 ## Future Features (Planned)
-- ✅ OAuth 2.0 Authorization Flows
-- ✅ Scalable authentication infrastructure
-- ✅ Easy integration for developers
-- ✅ Secure token handling
+- 🚀 OAuth 2.0 Authorization Flows
+- 🚀 Scalable authentication infrastructure
+- 🚀 Easy integration for developers
+- 🚀 Secure token handling
 - 🚀 Rate limits disabled for dev testing
 - 🚀 API endpoints for user management
 
